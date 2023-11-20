@@ -1,0 +1,5 @@
+IP: 130.193.34.85;
+name_taski: http://taski32.ddns.net/;
+name_kittygram: http://kittygram32.dynnamn.ru/;
+login: Vlad;
+password: 100500;
